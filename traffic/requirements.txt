@@ -1,0 +1,3 @@
+# Pin protobuf, shapely, and pyproj to production dependencies
+
+Specification and operational parameters for Orbit-SmartCity.
